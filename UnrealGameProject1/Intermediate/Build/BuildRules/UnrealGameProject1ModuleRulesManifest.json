@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\GithubFolder\\UnrealGameProject1\\UnrealGameProject1\\Source\\UnrealGameProject1\\UnrealGameProject1.Build.cs",
+		"D:\\GithubFolder\\UnrealGameProject1\\UnrealGameProject1\\Source\\UnrealGameProject1.Target.cs",
+		"D:\\GithubFolder\\UnrealGameProject1\\UnrealGameProject1\\Source\\UnrealGameProject1Editor.Target.cs"
+	],
+	"EngineVersion": "5.0.3"
+}
