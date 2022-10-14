@@ -6,7 +6,7 @@
         "PCH": "d:\\githubfolder\\unrealgameproject1\\unrealgameproject1\\intermediate\\build\\win64\\unrealgameproject1editor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
         "Includes": [
             "d:\\githubfolder\\unrealgameproject1\\unrealgameproject1\\intermediate\\build\\win64\\unrealeditor\\development\\unrealgameproject1\\definitions.unrealgameproject1.h",
-            "d:\\githubfolder\\unrealgameproject1\\unrealgameproject1\\source\\unrealgameproject1\\unrealgameproject1gamemodebase.h",
+            "d:\\githubfolder\\unrealgameproject1\\unrealgameproject1\\source\\unrealgameproject1\\public\\unrealgameproject1gamemodebase.h",
             "d:\\unrealengine\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
             "d:\\unrealengine\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
             "d:\\unrealengine\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",

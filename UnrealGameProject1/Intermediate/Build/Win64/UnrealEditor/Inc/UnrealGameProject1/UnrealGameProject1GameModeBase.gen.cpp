@@ -5,7 +5,7 @@
 ===========================================================================*/
 
 #include "UObject/GeneratedCppIncludes.h"
-#include "UnrealGameProject1/UnrealGameProject1GameModeBase.h"
+#include "UnrealGameProject1/public/UnrealGameProject1GameModeBase.h"
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 void EmptyLinkFunctionForGeneratedCodeUnrealGameProject1GameModeBase() {}
 // Cross Module References
@@ -40,7 +40,7 @@ void EmptyLinkFunctionForGeneratedCodeUnrealGameProject1GameModeBase() {}
 		{ "Comment", "/**\n * \n */" },
 		{ "HideCategories", "Info Rendering MovementReplication Replication Actor Input Movement Collision Rendering HLOD WorldPartition DataLayers Transformation" },
 		{ "IncludePath", "UnrealGameProject1GameModeBase.h" },
-		{ "ModuleRelativePath", "UnrealGameProject1GameModeBase.h" },
+		{ "ModuleRelativePath", "public/UnrealGameProject1GameModeBase.h" },
 		{ "ShowCategories", "Input|MouseInput Input|TouchInput" },
 	};
 #endif
@@ -75,15 +75,15 @@ void EmptyLinkFunctionForGeneratedCodeUnrealGameProject1GameModeBase() {}
 		return AUnrealGameProject1GameModeBase::StaticClass();
 	}
 	DEFINE_VTABLE_PTR_HELPER_CTOR(AUnrealGameProject1GameModeBase);
-	struct Z_CompiledInDeferFile_FID_UnrealGameProject1_Source_UnrealGameProject1_UnrealGameProject1GameModeBase_h_Statics
+	struct Z_CompiledInDeferFile_FID_UnrealGameProject1_Source_UnrealGameProject1_public_UnrealGameProject1GameModeBase_h_Statics
 	{
 		static const FClassRegisterCompiledInInfo ClassInfo[];
 	};
-	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_UnrealGameProject1_Source_UnrealGameProject1_UnrealGameProject1GameModeBase_h_Statics::ClassInfo[] = {
-		{ Z_Construct_UClass_AUnrealGameProject1GameModeBase, AUnrealGameProject1GameModeBase::StaticClass, TEXT("AUnrealGameProject1GameModeBase"), &Z_Registration_Info_UClass_AUnrealGameProject1GameModeBase, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AUnrealGameProject1GameModeBase), 423326056U) },
+	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_UnrealGameProject1_Source_UnrealGameProject1_public_UnrealGameProject1GameModeBase_h_Statics::ClassInfo[] = {
+		{ Z_Construct_UClass_AUnrealGameProject1GameModeBase, AUnrealGameProject1GameModeBase::StaticClass, TEXT("AUnrealGameProject1GameModeBase"), &Z_Registration_Info_UClass_AUnrealGameProject1GameModeBase, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AUnrealGameProject1GameModeBase), 3937039225U) },
 	};
-	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_UnrealGameProject1_Source_UnrealGameProject1_UnrealGameProject1GameModeBase_h_4215021687(TEXT("/Script/UnrealGameProject1"),
-		Z_CompiledInDeferFile_FID_UnrealGameProject1_Source_UnrealGameProject1_UnrealGameProject1GameModeBase_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_UnrealGameProject1_Source_UnrealGameProject1_UnrealGameProject1GameModeBase_h_Statics::ClassInfo),
+	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_UnrealGameProject1_Source_UnrealGameProject1_public_UnrealGameProject1GameModeBase_h_2771883046(TEXT("/Script/UnrealGameProject1"),
+		Z_CompiledInDeferFile_FID_UnrealGameProject1_Source_UnrealGameProject1_public_UnrealGameProject1GameModeBase_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_UnrealGameProject1_Source_UnrealGameProject1_public_UnrealGameProject1GameModeBase_h_Statics::ClassInfo),
 		nullptr, 0,
 		nullptr, 0);
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

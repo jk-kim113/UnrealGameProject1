@@ -1,0 +1,20 @@
+﻿  Using bundled DotNet SDK
+  Log file: C:\Users\rlawh\AppData\Local\UnrealBuildTool\Log.txt
+  Using 'git status' to determine working set for adaptive non-unity build (D:\GithubFolder\UnrealGameProject1).
+  Parsing headers for UnrealGameProject1Editor
+    Running UnrealHeaderTool "D:\GithubFolder\UnrealGameProject1\UnrealGameProject1\UnrealGameProject1.uproject" "D:\GithubFolder\UnrealGameProject1\UnrealGameProject1\Intermediate\Build\Win64\UnrealGameProject1Editor\Development\UnrealGameProject1Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\rlawh\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+  Reflection code generated for UnrealGameProject1Editor in 21.5496558 seconds
+  Building UnrealGameProject1Editor...
+  Using Visual Studio 2019 14.29.30146 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Determining max actions to execute in parallel (4 physical cores, 8 logical cores)
+    Executing up to 4 processes, one per physical core
+  Building 5 actions with 4 processes...
+  [1/5] Compile MainPlayer.cpp
+  [2/5] Compile MainPlayer.gen.cpp
+  [3/5] Link UnrealEditor-UnrealGameProject1-0055.lib
+     Creating library D:\GithubFolder\UnrealGameProject1\UnrealGameProject1\Intermediate\Build\Win64\UnrealEditor\Development\UnrealGameProject1\UnrealEditor-UnrealGameProject1-0055.lib and object D:\GithubFolder\UnrealGameProject1\UnrealGameProject1\Intermediate\Build\Win64\UnrealEditor\Development\UnrealGameProject1\UnrealEditor-UnrealGameProject1-0055.exp
+  [4/5] Link UnrealEditor-UnrealGameProject1-0055.dll
+     Creating library D:\GithubFolder\UnrealGameProject1\UnrealGameProject1\Intermediate\Build\Win64\UnrealEditor\Development\UnrealGameProject1\UnrealEditor-UnrealGameProject1-0055.suppressed.lib and object D:\GithubFolder\UnrealGameProject1\UnrealGameProject1\Intermediate\Build\Win64\UnrealEditor\Development\UnrealGameProject1\UnrealEditor-UnrealGameProject1-0055.suppressed.exp
+  [5/5] WriteMetadata UnrealGameProject1Editor.target
+  Total time in Parallel executor: 8.71 seconds
+  Total execution time: 31.39 seconds

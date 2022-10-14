@@ -23,23 +23,41 @@
     <None Include="..\..\Config\DefaultGame.ini">
       <Filter>Config</Filter>
     </None>
+    <Filter Include="Config\HoloLens">
+      <UniqueIdentifier>{4C8DD267-CDE7-336F-8602-F5F485D22BAB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\HoloLens\HoloLensEngine.ini">
+      <Filter>Config\HoloLens</Filter>
+    </None>
     <Filter Include="Source\UnrealGameProject1">
       <UniqueIdentifier>{4C20AD77-FCC6-3D64-8CB5-3EB693A1807C}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\UnrealGameProject1\UnrealGameProject1.Build.cs">
       <Filter>Source\UnrealGameProject1</Filter>
     </None>
-    <ClCompile Include="..\..\Source\UnrealGameProject1\UnrealGameProject1.cpp">
-      <Filter>Source\UnrealGameProject1</Filter>
+    <Filter Include="Source\UnrealGameProject1\private">
+      <UniqueIdentifier>{BA409512-6FDC-3343-97FA-B31563847007}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\UnrealGameProject1\private\MainPlayer.cpp">
+      <Filter>Source\UnrealGameProject1\private</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\Source\UnrealGameProject1\UnrealGameProject1.h">
-      <Filter>Source\UnrealGameProject1</Filter>
+    <ClCompile Include="..\..\Source\UnrealGameProject1\private\UnrealGameProject1.cpp">
+      <Filter>Source\UnrealGameProject1\private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UnrealGameProject1\private\UnrealGameProject1GameModeBase.cpp">
+      <Filter>Source\UnrealGameProject1\private</Filter>
+    </ClCompile>
+    <Filter Include="Source\UnrealGameProject1\public">
+      <UniqueIdentifier>{83740500-8FD8-36E5-A1C7-29B3B7F65B9D}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\UnrealGameProject1\public\MainPlayer.h">
+      <Filter>Source\UnrealGameProject1\public</Filter>
     </ClInclude>
-    <ClCompile Include="..\..\Source\UnrealGameProject1\UnrealGameProject1GameModeBase.cpp">
-      <Filter>Source\UnrealGameProject1</Filter>
-    </ClCompile>
-    <ClInclude Include="..\..\Source\UnrealGameProject1\UnrealGameProject1GameModeBase.h">
-      <Filter>Source\UnrealGameProject1</Filter>
+    <ClInclude Include="..\..\Source\UnrealGameProject1\public\UnrealGameProject1.h">
+      <Filter>Source\UnrealGameProject1\public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\UnrealGameProject1\public\UnrealGameProject1GameModeBase.h">
+      <Filter>Source\UnrealGameProject1\public</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

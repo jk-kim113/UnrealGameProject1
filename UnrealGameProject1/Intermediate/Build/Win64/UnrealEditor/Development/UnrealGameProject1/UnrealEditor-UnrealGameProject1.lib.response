@@ -7,8 +7,10 @@
 /IGNORE:4221
 /NODEFAULTLIB
 "D:\GithubFolder\UnrealGameProject1\UnrealGameProject1\Intermediate\Build\Win64\UnrealGameProject1Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\GithubFolder\UnrealGameProject1\UnrealGameProject1\Intermediate\Build\Win64\UnrealEditor\Development\UnrealGameProject1\MainPlayer.cpp.obj"
 "D:\GithubFolder\UnrealGameProject1\UnrealGameProject1\Intermediate\Build\Win64\UnrealEditor\Development\UnrealGameProject1\UnrealGameProject1.cpp.obj"
 "D:\GithubFolder\UnrealGameProject1\UnrealGameProject1\Intermediate\Build\Win64\UnrealEditor\Development\UnrealGameProject1\UnrealGameProject1GameModeBase.cpp.obj"
+"D:\GithubFolder\UnrealGameProject1\UnrealGameProject1\Intermediate\Build\Win64\UnrealEditor\Development\UnrealGameProject1\MainPlayer.gen.cpp.obj"
 "D:\GithubFolder\UnrealGameProject1\UnrealGameProject1\Intermediate\Build\Win64\UnrealEditor\Development\UnrealGameProject1\UnrealGameProject1.init.gen.cpp.obj"
 "D:\GithubFolder\UnrealGameProject1\UnrealGameProject1\Intermediate\Build\Win64\UnrealEditor\Development\UnrealGameProject1\UnrealGameProject1GameModeBase.gen.cpp.obj"
 "D:\GithubFolder\UnrealGameProject1\UnrealGameProject1\Intermediate\Build\Win64\UnrealEditor\Development\UnrealGameProject1\Default.rc2.res"
